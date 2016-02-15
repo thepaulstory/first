@@ -1,0 +1,5 @@
+c:\users\paul story\documents\visual studio 2015\Projects\PaulStoryCylanceCodingTest\PaulStoryCylanceCodingTest.Models\bin\Debug\PaulStoryCylanceCodingTest.Models.dll
+c:\users\paul story\documents\visual studio 2015\Projects\PaulStoryCylanceCodingTest\PaulStoryCylanceCodingTest.Models\bin\Debug\PaulStoryCylanceCodingTest.Models.pdb
+c:\users\paul story\documents\visual studio 2015\Projects\PaulStoryCylanceCodingTest\PaulStoryCylanceCodingTest.Models\obj\Debug\PaulStoryCylanceCodingTest.Models.dll
+c:\users\paul story\documents\visual studio 2015\Projects\PaulStoryCylanceCodingTest\PaulStoryCylanceCodingTest.Models\obj\Debug\PaulStoryCylanceCodingTest.Models.pdb
+C:\Users\Paul Story\Documents\Visual Studio 2015\Projects\PaulStoryCylanceCodingTest\PaulStoryCylanceCodingTest.Models\obj\Debug\PaulStoryCylanceCodingTest.Models.csprojResolveAssemblyReference.cache

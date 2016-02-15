@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaulStoryCylanceCodingTest.Models", "PaulStoryCylanceCodingTest.Models\PaulStoryCylanceCodingTest.Models.csproj", "{D91BD7F6-9BBB-43EF-AE39-A1AAB14EF0D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaulStoryCylanceCodingTest.Data", "PaulStoryCylanceCodingTest.Data\PaulStoryCylanceCodingTest.Data.csproj", "{10C3B98D-5B51-4087-B9C0-934B71B73923}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaulStoryCylanceCodingTest.ConsoleApp", "PaulStoryCylanceCodingTest.ConsoleApp\PaulStoryCylanceCodingTest.ConsoleApp.csproj", "{006A62A3-B0D4-4A92-9712-0F993A1EA726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaulStoryCylanceCodingTest.Web", "PaulStoryCylanceCodingTest.Web\PaulStoryCylanceCodingTest.Web.csproj", "{406BAF76-8882-4DDE-AE95-6A83BA413DF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaulStoryCylanceCodingTest.Web.Tests", "PaulStoryCylanceCodingTest.Web.Tests\PaulStoryCylanceCodingTest.Web.Tests.csproj", "{7EA6BFFF-8F81-4D9F-BF66-D40F716C759D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D91BD7F6-9BBB-43EF-AE39-A1AAB14EF0D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91BD7F6-9BBB-43EF-AE39-A1AAB14EF0D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91BD7F6-9BBB-43EF-AE39-A1AAB14EF0D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91BD7F6-9BBB-43EF-AE39-A1AAB14EF0D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10C3B98D-5B51-4087-B9C0-934B71B73923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C3B98D-5B51-4087-B9C0-934B71B73923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C3B98D-5B51-4087-B9C0-934B71B73923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C3B98D-5B51-4087-B9C0-934B71B73923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{006A62A3-B0D4-4A92-9712-0F993A1EA726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{006A62A3-B0D4-4A92-9712-0F993A1EA726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{006A62A3-B0D4-4A92-9712-0F993A1EA726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{006A62A3-B0D4-4A92-9712-0F993A1EA726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{406BAF76-8882-4DDE-AE95-6A83BA413DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406BAF76-8882-4DDE-AE95-6A83BA413DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406BAF76-8882-4DDE-AE95-6A83BA413DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406BAF76-8882-4DDE-AE95-6A83BA413DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EA6BFFF-8F81-4D9F-BF66-D40F716C759D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA6BFFF-8F81-4D9F-BF66-D40F716C759D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA6BFFF-8F81-4D9F-BF66-D40F716C759D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA6BFFF-8F81-4D9F-BF66-D40F716C759D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://thepaulstory.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PaulStoryCylanceCodingTest.Models\\PaulStoryCylanceCodingTest.Models.csproj
+		SccProjectName1 = PaulStoryCylanceCodingTest.Models
+		SccLocalPath1 = PaulStoryCylanceCodingTest.Models
+		SccProjectUniqueName2 = PaulStoryCylanceCodingTest.Data\\PaulStoryCylanceCodingTest.Data.csproj
+		SccProjectName2 = PaulStoryCylanceCodingTest.Data
+		SccLocalPath2 = PaulStoryCylanceCodingTest.Data
+		SccProjectUniqueName3 = PaulStoryCylanceCodingTest.ConsoleApp\\PaulStoryCylanceCodingTest.ConsoleApp.csproj
+		SccProjectName3 = PaulStoryCylanceCodingTest.ConsoleApp
+		SccLocalPath3 = PaulStoryCylanceCodingTest.ConsoleApp
+		SccProjectUniqueName4 = PaulStoryCylanceCodingTest.Web\\PaulStoryCylanceCodingTest.Web.csproj
+		SccProjectName4 = PaulStoryCylanceCodingTest.Web
+		SccLocalPath4 = PaulStoryCylanceCodingTest.Web
+		SccProjectUniqueName5 = PaulStoryCylanceCodingTest.Web.Tests\\PaulStoryCylanceCodingTest.Web.Tests.csproj
+		SccProjectName5 = PaulStoryCylanceCodingTest.Web.Tests
+		SccLocalPath5 = PaulStoryCylanceCodingTest.Web.Tests
+	EndGlobalSection
+EndGlobal
